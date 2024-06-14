@@ -15,16 +15,12 @@ Here are some ideas to get you started:
 
 # Hello there! 👋
 
-I'm **Róger Roca**, currently a Computer Sciences Student and in a near future a **fullstack developer**.
+I'm **Róger Roca**, Junior Full stack Software Developer.
 
-## Technologies I've learned or I'm currently learning 📖
-- **Languages:** C++ | C# | Java | HTML | CSS | Sass | Python | JavaScript | Dart
-- **Frameworks:** ASP .NET Core | Bootstrap | Entity Framework | Flutter
-
-## Working on these projects 🐱‍💻
-- [Mikrotik Wireguard Handler](https://github.com/rogerrocaarano/mikrotikWireguardHandler) - A client for Mikrotik's routers RestAPI, than handles its Wireguard Service.
-- [Mikrotik Wireguard UI](https://github.com/rogerrocaarano/MikrotikWireguardUI) - An UI for managing multiple Mikrotik's Wireguard Services.
-
+## Technology Stack 📖
+- **Languages:** C# | Python | JavaScript
+- **Frameworks:** ASP.NET Core
+- **Frontend:** Bootstrap | Tailwind | HTML | CSS
 ___
 
-Contact me! ✉️ - [email](mailto:rogerroca@reinseg.com) | [LinkedIn](https://www.linkedin.com/in/rrocaarano/)
+Contact me! ✉️ - [email](mailto:rogerrocaarano@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rrocaarano/)
