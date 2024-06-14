@@ -21,7 +21,7 @@ I'm **Róger Roca**, Junior Full stack Software Developer.
 - **Languages:** C# | Python | JavaScript
 - **Frameworks:** ASP.NET Core
 - **Databases:** PostgreSQL | Entity Framework
-- **Frontend:** Bootstrap | Tailwind | HTML | CSS
+- **Frontend:** Bootstrap | Tailwindcss | HTML | CSS
 ___
 
 Contact me! ✉️ - [email](mailto:rogerrocaarano@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rrocaarano/)
