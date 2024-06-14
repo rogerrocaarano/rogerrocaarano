@@ -20,6 +20,7 @@ I'm **Róger Roca**, Junior Full stack Software Developer.
 ## Technology Stack 📖
 - **Languages:** C# | Python | JavaScript
 - **Frameworks:** ASP.NET Core
+- **Databases:** PostgreSQL | Entity Framework
 - **Frontend:** Bootstrap | Tailwind | HTML | CSS
 ___
 
