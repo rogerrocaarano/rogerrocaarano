@@ -19,3 +19,9 @@ Software Engineer focused on backend development and scalable architecture.
 I primarily work with .NET (C#), applying best practices to build clean, maintainable, and robust APIs. I complement my stack with Python, especially in artificial intelligence, machine learning, and RAG systems.
 
 > I believe software is not just about technology; it’s also about ethics, structure, and clarity. I’m passionate about building systems that do what they’re supposed to—without noise or surprises—and that stand the test of time.
+
+## My Stack
+
+- Backend .NET
+- Python
+- Kotlin Multiplatform
