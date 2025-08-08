@@ -13,15 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello there! 👋
+# About Me
 
-I'm **Róger Roca**, Junior Full stack Software Developer.
+Software Engineer focused on backend development and scalable architecture.
+I primarily work with .NET (C#), applying best practices to build clean, maintainable, and robust APIs. I complement my stack with Python, especially in artificial intelligence, machine learning, and RAG systems.
 
-## Technology Stack 📖
-- **Languages:** C# | Python | JavaScript
-- **Frameworks:** ASP.NET Core
-- **Databases:** PostgreSQL | Entity Framework
-- **Frontend:** Bootstrap | Tailwindcss | HTML | CSS
-___
-
-Contact me! ✉️ - [email](mailto:rogerrocaarano@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rrocaarano/)
+> I believe software is not just about technology; it’s also about ethics, structure, and clarity. I’m passionate about building systems that do what they’re supposed to—without noise or surprises—and that stand the test of time.
